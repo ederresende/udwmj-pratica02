@@ -1,0 +1,1 @@
+alert("Olá,Mundo!(Arquivo externo)");
